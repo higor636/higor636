@@ -1,44 +1,47 @@
 # 👋 Olá, eu sou o Higor
 
-💻 Desenvolvedor Fullstack apaixonado por tecnologia e aprendizado contínuo.
+💻 Desenvolvedor Fullstack focado em tecnologias web modernas.
 
-Busco constantemente evoluir minhas habilidades, explorar novas tecnologias e construir soluções que resolvam problemas reais.
+Sou apaixonado por tecnologia e aprendizado contínuo. Busco constantemente evoluir minhas habilidades, explorar novas ferramentas e construir soluções que resolvam problemas reais.
 
 ---
 
-## 🚀 Tecnologias
+# 🚀 Tecnologias
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript)
-![Node](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js)
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js)
 ![Angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular)
 ![Docker](https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker)
 
 ---
 
-## 📊 Estatísticas
+# 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=higor636&show_icons=true&theme=radical)
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=higor636&show_icons=true&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higor636&layout=compact&theme=radical"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higor636&layout=compact&theme=radical)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=higor636&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higor636&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=higor636&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=higor636&theme=radical"/>
+</p>
 
 ---
 
-## 📌 Projetos em Destaque
+# 📌 Projetos em Destaque
 
 🔹 Sistema de pagamentos  
 🔹 Plataforma educacional  
-🔹 Biblioteca de utilidades TypeScript
+🔹 Biblioteca de utilidades TypeScript  
 
 ---
 
-## 📫 Contato
+# 📫 Contato
 
-- LinkedIn
-- Email
+- 💼 LinkedIn
+- 📧 Email
+
+---
+
+⭐ Obrigado por visitar meu perfil!
