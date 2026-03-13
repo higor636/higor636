@@ -21,6 +21,8 @@ Busco constantemente evoluir minhas habilidades, explorar novas tecnologias e co
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=radical)
+https://github-readme-stats.vercel.app
+https://github-readme-streak-stats.herokuapp.com
 
 ---
 
