@@ -18,11 +18,15 @@ Busco constantemente evoluir minhas habilidades, explorar novas tecnologias e co
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=higor636&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=radical)
-https://github-readme-stats.vercel.app
-https://github-readme-streak-stats.herokuapp.com
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higor636&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=higor636&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higor636&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=higor636&theme=radical)
 
 ---
 
