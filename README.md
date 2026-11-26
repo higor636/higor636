@@ -2,7 +2,9 @@
 
 💻 Desenvolvedor Fullstack focado em tecnologias web modernas.
 
-Sou apaixonado por tecnologia e aprendizado contínuo. Busco constantemente evoluir minhas habilidades, explorar novas ferramentas e construir soluções que resolvam problemas reais.
+Desenvolvedor Fullstack especializado em tecnologias web modernas.
+Experiência com React, TypeScript, Angular e Node.js, focado em construir soluções escaláveis e de alta qualidade.
+Apaixonado por aprendizado contínuo e boas práticas de engenharia de software.
 
 ---
 
